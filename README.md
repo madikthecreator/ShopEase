@@ -1,4 +1,4 @@
-# ShopOn
+# ShopEase
 This is an Android Native application which is developed as a solution for **INFOMATRIX ASIA 2025**_ for the problem statement related to shopping experience. The detailed problem statement and proposed solution are mentioned furthur in the document.  
 Click [here](https://youtu.be/ebxUM9ym_Bw) for the video presentation with app demo.
 
