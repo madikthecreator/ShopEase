@@ -9,7 +9,6 @@ What is that one thing that has refrained customers from buying online for a lon
 We intend to solve these problems by using the _Augmented Reality (AR) Technology_, through which we’ll target on providing customers with virtual representation analysing the product’s size, fitment, colour theme sync, etc. With the feature of trying out their products virtually through their mobile phones, the gap between the customer and the product will be minimized.
 
 ## Screenshots of the application :
-
 ![Application Screenshots1](./doc_assets/ScreenShot1.png)
 ![Application Screenshots2](./doc_assets/ScreenShot2.png)
 
