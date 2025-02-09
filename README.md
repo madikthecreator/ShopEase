@@ -10,8 +10,8 @@ We intend to solve these problems by using the _Augmented Reality (AR) Technolog
 
 ## Screenshots of the application :
 
-![ApplicationScreenshots1](./doc_assets/DEMO SHOPEASE SCREENSHOT 1.png)
-![ApplicationScreenshots2](./doc_assets/DEMO SHOPEASE SCREENSHOT 2.png)
+![Application Screenshots1](./doc_assets/DEMO SHOPEASE SCREENSHOT 1.png)
+![Application Screenshots2](./doc_assets/DEMO SHOPEASE SCREENSHOT 2.png)
 
 ## How does it work?
 We will be using **SceneViewer** by triggering a explicit intent to it. 
@@ -44,4 +44,3 @@ The option for virtual try on/ see in your room can be made available for more a
 1. [Izbassar Madiyar]
 2. [Erik Batyr]
 3. [Muratkyzy Sabina]
-4. 
