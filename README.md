@@ -10,8 +10,8 @@ We intend to solve these problems by using the _Augmented Reality (AR) Technolog
 
 ## Screenshots of the application :
 
-![Application Screenshots1](./doc_assets/DEMO SHOPEASE SCREENSHOT 1.png)
-![Application Screenshots2](./doc_assets/DEMO SHOPEASE SCREENSHOT 2.png)
+![alt text]((https://i.ibb.co.com/d0cyLytc/DEMO-SHOPEASE-SCREENSHOT-1.png))
+![alt text]((https://i.ibb.co.com/C51G6XWq/DEMO-SHOPEASE-SCREENSHOT-2.png)))
 
 ## How does it work?
 We will be using **SceneViewer** by triggering a explicit intent to it. 
